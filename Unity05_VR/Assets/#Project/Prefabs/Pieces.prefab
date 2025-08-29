@@ -47,7 +47,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   blockId: f8766c17-aaf8-4b55-9431-de8deea83842
-  instanceId: ca295b49-9c53-48dd-9638-0b03512eeb24
+  instanceId: 8add68b4-20e8-420c-bb19-c874afbc02b6
   version: 1
   installationRoutineCheckpoint:
     _installationRoutineId: f8338144-8280-4ff6-9455-ae2bb9c20fe8
@@ -165,7 +165,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   blockId: f8766c17-aaf8-4b55-9431-de8deea83842
-  instanceId: 6ea87ff2-9b11-436f-b7ca-8f434ea61d83
+  instanceId: fc0fb13a-6b7f-4fca-9d98-46b1217ce66d
   version: 1
   installationRoutineCheckpoint:
     _installationRoutineId: f8338144-8280-4ff6-9455-ae2bb9c20fe8
@@ -283,7 +283,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   blockId: f8766c17-aaf8-4b55-9431-de8deea83842
-  instanceId: 085e17eb-a34e-411a-96bf-bdd3bb4254fe
+  instanceId: 1dc998a0-ed17-42d3-b614-9d2180672bd1
   version: 1
   installationRoutineCheckpoint:
     _installationRoutineId: f8338144-8280-4ff6-9455-ae2bb9c20fe8
@@ -401,7 +401,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   blockId: f8766c17-aaf8-4b55-9431-de8deea83842
-  instanceId: 1b6fbbdb-1007-458b-ae4a-a2c570b1bed5
+  instanceId: f03eb6d8-4df7-4ebf-8aee-464577776eda
   version: 1
   installationRoutineCheckpoint:
     _installationRoutineId: f8338144-8280-4ff6-9455-ae2bb9c20fe8
@@ -519,7 +519,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   blockId: f8766c17-aaf8-4b55-9431-de8deea83842
-  instanceId: 7c58d857-421a-4946-b429-f5cb356d11c5
+  instanceId: def9d4f0-4f8f-4cf0-b2c9-0d6d7b371de5
   version: 1
   installationRoutineCheckpoint:
     _installationRoutineId: f8338144-8280-4ff6-9455-ae2bb9c20fe8
@@ -637,7 +637,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   blockId: f8766c17-aaf8-4b55-9431-de8deea83842
-  instanceId: d4667865-c06a-4ab2-b12b-8e2549e7bd61
+  instanceId: 0aaa3d7c-117c-47ff-ade0-89c53987690a
   version: 1
   installationRoutineCheckpoint:
     _installationRoutineId: f8338144-8280-4ff6-9455-ae2bb9c20fe8
@@ -755,7 +755,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   blockId: f8766c17-aaf8-4b55-9431-de8deea83842
-  instanceId: 4dd7e0dd-137a-43a6-8d1c-9029b5feac35
+  instanceId: aeb26b5d-12b8-4675-a3c3-01d57a6b53f5
   version: 1
   installationRoutineCheckpoint:
     _installationRoutineId: f8338144-8280-4ff6-9455-ae2bb9c20fe8
@@ -873,7 +873,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   blockId: f8766c17-aaf8-4b55-9431-de8deea83842
-  instanceId: 658d8e8c-55fd-4129-b3b4-58420f55c7d7
+  instanceId: c78de65b-944e-4dbb-b32d-975a909af16a
   version: 1
   installationRoutineCheckpoint:
     _installationRoutineId: f8338144-8280-4ff6-9455-ae2bb9c20fe8
@@ -1036,7 +1036,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   blockId: f8766c17-aaf8-4b55-9431-de8deea83842
-  instanceId: f02ad21b-f29a-4990-8d0e-81f3123f7826
+  instanceId: 43c91fa6-449b-4370-839e-21e064eb7275
   version: 1
   installationRoutineCheckpoint:
     _installationRoutineId: f8338144-8280-4ff6-9455-ae2bb9c20fe8
@@ -1154,7 +1154,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   blockId: f8766c17-aaf8-4b55-9431-de8deea83842
-  instanceId: e17586a2-ddf0-4576-952a-27ea1d53b4c6
+  instanceId: 35521977-b2fc-42e1-b7f3-7d030c9bfb79
   version: 1
   installationRoutineCheckpoint:
     _installationRoutineId: f8338144-8280-4ff6-9455-ae2bb9c20fe8
@@ -1272,7 +1272,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   blockId: f8766c17-aaf8-4b55-9431-de8deea83842
-  instanceId: 3137299b-9127-4a02-978f-528c2bdb0e6c
+  instanceId: 963d9ab4-ad87-4f41-9d2b-e5f097e9c241
   version: 1
   installationRoutineCheckpoint:
     _installationRoutineId: f8338144-8280-4ff6-9455-ae2bb9c20fe8
@@ -1390,7 +1390,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   blockId: f8766c17-aaf8-4b55-9431-de8deea83842
-  instanceId: 2571069b-4abc-4b60-9a94-1cfcb20cd43c
+  instanceId: 5f723209-b565-4389-bd50-d1a94f89e8e2
   version: 1
   installationRoutineCheckpoint:
     _installationRoutineId: f8338144-8280-4ff6-9455-ae2bb9c20fe8
@@ -1575,9 +1575,9 @@ Rigidbody:
   m_ImplicitTensor: 1
   m_UseGravity: 1
   m_IsKinematic: 0
-  m_Interpolate: 0
+  m_Interpolate: 1
   m_Constraints: 0
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
 --- !u!114 &4157735768136918416
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1746,9 +1746,9 @@ Rigidbody:
   m_ImplicitTensor: 1
   m_UseGravity: 1
   m_IsKinematic: 0
-  m_Interpolate: 0
+  m_Interpolate: 1
   m_Constraints: 0
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
 --- !u!65 &1681538728384860501
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1911,9 +1911,9 @@ Rigidbody:
   m_ImplicitTensor: 1
   m_UseGravity: 1
   m_IsKinematic: 0
-  m_Interpolate: 0
+  m_Interpolate: 1
   m_Constraints: 0
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
 --- !u!114 &353139544287083641
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2077,9 +2077,9 @@ Rigidbody:
   m_ImplicitTensor: 1
   m_UseGravity: 1
   m_IsKinematic: 0
-  m_Interpolate: 0
+  m_Interpolate: 1
   m_Constraints: 0
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
 --- !u!114 &3001041360401626693
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2243,9 +2243,9 @@ Rigidbody:
   m_ImplicitTensor: 1
   m_UseGravity: 1
   m_IsKinematic: 0
-  m_Interpolate: 0
+  m_Interpolate: 1
   m_Constraints: 0
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
 --- !u!114 &9045709738992750115
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2409,9 +2409,9 @@ Rigidbody:
   m_ImplicitTensor: 1
   m_UseGravity: 1
   m_IsKinematic: 0
-  m_Interpolate: 0
+  m_Interpolate: 1
   m_Constraints: 0
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
 --- !u!65 &5158087422261411373
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2463,6 +2463,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 8618739054766061918}
     m_Modifications:
+    - target: {fileID: 636002430905549023, guid: c284839263848e946b16ea5c6ffc9201, type: 3}
+      propertyPath: m_Interpolate
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 636002430905549023, guid: c284839263848e946b16ea5c6ffc9201, type: 3}
+      propertyPath: m_CollisionDetection
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1318339347632731824, guid: c284839263848e946b16ea5c6ffc9201, type: 3}
       propertyPath: m_Name
       value: CubeFlat
@@ -2506,6 +2514,10 @@ PrefabInstance:
     - target: {fileID: 1801578433564765194, guid: c284839263848e946b16ea5c6ffc9201, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4553467076709398722, guid: c284839263848e946b16ea5c6ffc9201, type: 3}
+      propertyPath: instanceId
+      value: 0bfa6be0-567c-4bb5-b5a3-1ff367a46684
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2631,9 +2643,9 @@ Rigidbody:
   m_ImplicitTensor: 1
   m_UseGravity: 1
   m_IsKinematic: 0
-  m_Interpolate: 0
+  m_Interpolate: 1
   m_Constraints: 0
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
 --- !u!114 &1283861905808960761
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2691,6 +2703,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 8618739054766061918}
     m_Modifications:
+    - target: {fileID: 636002430905549023, guid: c284839263848e946b16ea5c6ffc9201, type: 3}
+      propertyPath: m_Interpolate
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 636002430905549023, guid: c284839263848e946b16ea5c6ffc9201, type: 3}
+      propertyPath: m_CollisionDetection
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1318339347632731824, guid: c284839263848e946b16ea5c6ffc9201, type: 3}
       propertyPath: m_Name
       value: CubeFlat (1)
@@ -2734,6 +2754,10 @@ PrefabInstance:
     - target: {fileID: 1801578433564765194, guid: c284839263848e946b16ea5c6ffc9201, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4553467076709398722, guid: c284839263848e946b16ea5c6ffc9201, type: 3}
+      propertyPath: instanceId
+      value: 4aad1a51-3438-4672-98c3-1258d21f8e58
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2864,9 +2888,9 @@ Rigidbody:
   m_ImplicitTensor: 1
   m_UseGravity: 1
   m_IsKinematic: 0
-  m_Interpolate: 0
+  m_Interpolate: 1
   m_Constraints: 0
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
 --- !u!114 &6488487870453954667
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3025,9 +3049,9 @@ Rigidbody:
   m_ImplicitTensor: 1
   m_UseGravity: 1
   m_IsKinematic: 0
-  m_Interpolate: 0
+  m_Interpolate: 1
   m_Constraints: 0
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
 --- !u!65 &2634723751470070996
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3195,9 +3219,9 @@ Rigidbody:
   m_ImplicitTensor: 1
   m_UseGravity: 1
   m_IsKinematic: 0
-  m_Interpolate: 0
+  m_Interpolate: 1
   m_Constraints: 0
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
 --- !u!114 &4126475228961210702
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3319,9 +3343,6 @@ PrefabInstance:
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 369e42ce445bedc4bb8cdf1db3e652ff, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 2163763893739076537}
-    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 369e42ce445bedc4bb8cdf1db3e652ff, type: 3}
-      insertIndex: -1
       addedObject: {fileID: 5316829534372733}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 369e42ce445bedc4bb8cdf1db3e652ff, type: 3}
       insertIndex: -1
@@ -3335,27 +3356,6 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 369e42ce445bedc4bb8cdf1db3e652ff, type: 3}
   m_PrefabInstance: {fileID: 7772424348687429885}
   m_PrefabAsset: {fileID: 0}
---- !u!65 &2163763893739076537
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7429913619180113324}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 0
-  serializedVersion: 3
-  m_Size: {x: 0.02, y: 0.019999996, z: 0.019999996}
-  m_Center: {x: 0, y: 0, z: 0}
 --- !u!54 &5316829534372733
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -3380,9 +3380,9 @@ Rigidbody:
   m_ImplicitTensor: 1
   m_UseGravity: 1
   m_IsKinematic: 0
-  m_Interpolate: 0
+  m_Interpolate: 1
   m_Constraints: 0
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
 --- !u!114 &8089831752454031711
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3546,9 +3546,9 @@ Rigidbody:
   m_ImplicitTensor: 1
   m_UseGravity: 1
   m_IsKinematic: 0
-  m_Interpolate: 0
+  m_Interpolate: 1
   m_Constraints: 0
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
 --- !u!65 &1575910031140269464
 BoxCollider:
   m_ObjectHideFlags: 0
